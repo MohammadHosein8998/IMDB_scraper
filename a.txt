@@ -1,0 +1,18 @@
+accept:
+"application/graphql+json, application/json"
+accept-encoding : 
+"gzip, deflate, br, zstd"
+accept-language:
+"en-US,en;q=0.9"
+content-type:
+"application/json"
+cookie:
+"session-id=138-7946978-8018925; session-id-time=2082787201l; ad-oo=0; ci=eyJhZ2VTaWduYWwiOiJBRFVMVCIsImlzR2RwciI6ZmFsc2V9; ubid-main=130-2558515-0825709; session-token=VIasDjN3eZkS8WBfvNuJqcxmfM3Y8Bckc9FXR1ITrysUeAOYAG5c9q35DW3dL/CZ26ztQXDd0/OgITpi7YyKVcwCU3Ne0+b8oZ8JvlUcbkvOqlfw0EkrbTm3c0hno47FRFbAoMLA/8uWMBfyOds59+zBI5XcE3ZokLFyXGOD4PStQGW0pqlznG8Oxt9alY79+7pCmnRZU21MIa1Nvcy1S91CDzSQSahMyVcIBjRZ/FOALPWIi0A7137CSlsFXfWoE+FcgACAj52ULWhq5y9IVx9JxREAqCdZq4vxUZHs1PqIcXoKs64dM29aAOEjji77zsx32yBAklFrREF9qM8dO2LDtYDfAIWe"
+origin:
+"https://www.imdb.com"
+priority:
+"u=1, i"
+referer:
+"https://www.imdb.com/"
+sec-ch-ua:
+"Not(A:Brand";v="8", "Chromium";v="144", "Google Chrome";v="144"
